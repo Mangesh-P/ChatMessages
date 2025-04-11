@@ -94,7 +94,3 @@ Instead, the goal is to demonstrate your software engineering abilities, includi
 - Implementing a well-engineered solution (as opposed to something that works by accident)
 - Making pragmatic technical decisions
 - Justifying the decisions you make
-
-Please don't publish your code online, as we intend to reuse this test.
-
-Good luck!
