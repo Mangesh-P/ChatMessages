@@ -1,0 +1,804 @@
+[
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "c3baea01",
+      "timestamp": 1650865243985,
+      "subject": "Recusandae quis",
+      "body": "Tempora tenetur quia."
+    }
+  },
+  {
+    "type": "unassigned",
+    "data": {
+      "conversationId": "c3baea01",
+      "timestamp": 1650866360471
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "c3baea01",
+      "timestamp": 1650867319203,
+      "subject": "Re: Recusandae quis",
+      "body": "Vel natus quidem quaerat eum qui."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "c3baea01",
+      "timestamp": 1650869169745,
+      "subject": "Re: Recusandae quis",
+      "body": "Alias quos ullam inventore sunt dolorem ad consequatur accusamus."
+    }
+  },
+  {
+    "type": "assigned",
+    "data": {
+      "conversationId": "c3baea01",
+      "timestamp": 1650872239933,
+      "user": "Alfonzo.Bahringer91"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "b329419b",
+      "timestamp": 1650880877271,
+      "subject": "Et consequatur",
+      "body": "Itaque odio dolores."
+    }
+  },
+  {
+    "type": "assigned",
+    "data": {
+      "conversationId": "b329419b",
+      "timestamp": 1650883423042,
+      "user": "John_Doe"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "849a7d39",
+      "timestamp": 1650885654106,
+      "subject": "Quam et",
+      "body": "Ut et consequatur dolores."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "b329419b",
+      "timestamp": 1650886630775,
+      "subject": "Re: Et consequatur",
+      "body": "Sapiente exercitationem minus et rem magnam autem aliquid repudiandae."
+    }
+  },
+  {
+    "type": "assigned",
+    "data": {
+      "conversationId": "849a7d39",
+      "timestamp": 1650886832389,
+      "user": "Melvina92"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "b329419b",
+      "timestamp": 1650888499302,
+      "subject": "Re: Et consequatur",
+      "body": "Repellat pariatur nobis consequatur culpa."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "849a7d39",
+      "timestamp": 1650889174458,
+      "subject": "Re: Quam et",
+      "body": "Voluptas sunt quas doloribus impedit assumenda repellendus facilis."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "849a7d39",
+      "timestamp": 1650890075545,
+      "subject": "Re: Quam et",
+      "body": "Unde quo consequatur recusandae pariatur non aut libero."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "c7ecedca",
+      "timestamp": 1650891913868,
+      "subject": "Ut ut",
+      "body": "Sit quod ea id."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "849a7d39",
+      "timestamp": 1650892065682,
+      "subject": "Re: Quam et",
+      "body": "Rerum aut iste beatae consequatur."
+    }
+  },
+  {
+    "type": "assigned",
+    "data": {
+      "conversationId": "c7ecedca",
+      "timestamp": 1650892104498,
+      "user": "John_Doe"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "c7ecedca",
+      "timestamp": 1650893501162,
+      "subject": "Re: Ut ut",
+      "body": "Sunt veritatis accusantium officiis dolor quisquam perferendis."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "849a7d39",
+      "timestamp": 1650893833598,
+      "subject": "Re: Quam et",
+      "body": "Voluptatem unde quis possimus amet incidunt ex."
+    }
+  },
+  {
+    "type": "assigned",
+    "data": {
+      "conversationId": "c7ecedca",
+      "timestamp": 1650894337797,
+      "user": "Alvena.Moore"
+    }
+  },
+  {
+    "type": "assigned",
+    "data": {
+      "conversationId": "849a7d39",
+      "timestamp": 1650896166078,
+      "user": "Diamond_Bahringer"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "77db1b3a",
+      "timestamp": 1650898752248,
+      "subject": "Et velit",
+      "body": "Dolores accusamus et voluptatem voluptatibus."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "77db1b3a",
+      "timestamp": 1650901269127,
+      "subject": "Re: Et velit",
+      "body": "Hic sunt est."
+    }
+  },
+  {
+    "type": "assigned",
+    "data": {
+      "conversationId": "77db1b3a",
+      "timestamp": 1650903256712,
+      "user": "Coy_Nitzsche82"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "33026906",
+      "timestamp": 1650905522204,
+      "subject": "Ducimus similique",
+      "body": "Illo laborum accusamus rerum aliquam totam sint et est perferendis."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "92a29792",
+      "timestamp": 1650905701098,
+      "subject": "A cupiditate",
+      "body": "Qui est cumque error aut quam temporibus enim optio ad."
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "77db1b3a",
+      "timestamp": 1650906097085,
+      "user": "Lolita.Wolff"
+    }
+  },
+  {
+    "type": "unassigned",
+    "data": {
+      "conversationId": "33026906",
+      "timestamp": 1650906511933
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "77db1b3a",
+      "timestamp": 1650907538205,
+      "subject": "Re: Et velit",
+      "body": "Velit ab deleniti voluptas odit modi."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "01b08617",
+      "timestamp": 1650908927689,
+      "subject": "Autem eos",
+      "body": "Doloremque laboriosam veritatis."
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "92a29792",
+      "timestamp": 1650909115183,
+      "user": "Russ_Barton"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "92a29792",
+      "timestamp": 1650908033970,
+      "subject": "Dolorum minus",
+      "body": "Numquam aut saepe ipsa laudantium expedita occaecati labore."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "77db1b3a",
+      "timestamp": 1650909478194,
+      "subject": "Re: Et velit",
+      "body": "Quibusdam nihil asperiores sit voluptas perspiciatis veniam."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "01b08617",
+      "timestamp": 1650910754529,
+      "subject": "Re: Autem eos",
+      "body": "Sapiente facere dolor excepturi voluptatem."
+    }
+  },
+  {
+    "type": "assigned",
+    "data": {
+      "conversationId": "01b08617",
+      "timestamp": 1650911812462,
+      "user": "Elmira77"
+    }
+  },
+  {
+    "type": "test",
+    "data": {
+      "conversationId": "01b08617",
+      "timestamp": 1650915265999
+    }
+  },
+  {
+    "type": "assigned",
+    "data": {
+      "conversationId": "01b08617",
+      "timestamp": 1650915800612,
+      "user": "Coy_Nitzsche82"
+    }
+  },
+  {
+    "type": "assigned",
+    "data": {
+      "conversationId": "01b08617",
+      "timestamp": 1650916112390,
+      "user": "Diamond_Bahringer"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "34c0a1b8",
+      "timestamp": 1650917626665,
+      "subject": "Ut sapiente",
+      "body": "Voluptatum rerum dolorem laborum fuga qui consequatur."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "34c0a1b8",
+      "timestamp": 1650920287360,
+      "subject": "Re: Ut sapiente",
+      "body": "Et mollitia aut qui sapiente sunt."
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "34c0a1b8",
+      "timestamp": 1650920820454,
+      "user": "Alfonzo.Bahringer91"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "6d5077a5",
+      "timestamp": 1650922080494,
+      "subject": "Vel at",
+      "body": "Rem voluptas ut aperiam dicta."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "1ea30db7",
+      "timestamp": 1650923506322,
+      "subject": "Id quos",
+      "body": "Eos quia blanditiis et similique facilis dolores eum non quasi."
+    }
+  },
+  {
+    "type": "typingStopped",
+    "data": {
+      "conversationId": "6d5077a5",
+      "timestamp": 1650923651287,
+      "user": "Alvena.Moore"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "a42ffad5",
+      "timestamp": 1650924367284,
+      "subject": "Velit voluptatem",
+      "body": "Et optio aut alias quasi et consequatur eligendi."
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "1ea30db7",
+      "timestamp": 1650926167262,
+      "user": "Diamond_Bahringer"
+    }
+  },
+  {
+    "type": "assigned",
+    "data": {
+      "conversationId": "a42ffad5",
+      "timestamp": 1650927680533,
+      "user": "John_Doe"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "218be735",
+      "timestamp": 1650928869257,
+      "subject": "Natus ut",
+      "body": "Aliquid aliquid repellat magni perspiciatis id dolores tempore."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "218be735",
+      "timestamp": 1650928955095,
+      "subject": "Re: Natus ut",
+      "body": "Natus pariatur error omnis autem."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "1ea30db7",
+      "timestamp": 1650929469291,
+      "subject": "Re: Id quos",
+      "body": "Odit minima in et explicabo deserunt aspernatur fugiat omnis eius."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "a91b76a1",
+      "timestamp": 1650929792285,
+      "subject": "Quis est",
+      "body": "Aut molestiae adipisci maxime voluptates."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "20b614b6",
+      "timestamp": 1650927475857,
+      "subject": "Recusandae et",
+      "body": "Ut non eum et expedita aut."
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "a91b76a1",
+      "timestamp": 1650931362637,
+      "user": "Russ_Barton"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "20b614b6",
+      "timestamp": 1650931577679,
+      "subject": "Est natus",
+      "body": "Velit beatae unde eius quibusdam ut voluptas eius fuga."
+    }
+  },
+  {
+    "type": "assigned",
+    "data": {
+      "conversationId": "218be735",
+      "timestamp": 1650931714017,
+      "user": "Russ_Barton"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "8446101a",
+      "timestamp": 1650931795909,
+      "subject": "In sint",
+      "body": "Est rerum voluptas quae esse aut occaecati est."
+    }
+  },
+  {
+    "type": "assigned",
+    "data": {
+      "conversationId": "218be735",
+      "timestamp": 1650931876634,
+      "user": "Frances.Reinger39"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "20b614b6",
+      "timestamp": 1650931465053,
+      "subject": "Eius est",
+      "body": "Consequatur sint qui autem et eum id."
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "a91b76a1",
+      "timestamp": 1650934102072,
+      "user": "Brody6"
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "218be735",
+      "timestamp": 1650934626637,
+      "user": "Alvena.Moore"
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "a91b76a1",
+      "timestamp": 1650934671193,
+      "user": "Elmira77"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "20b614b6",
+      "timestamp": 1650935017653,
+      "subject": "Re: Est natus",
+      "body": "Molestiae iusto minus ut repellat similique culpa illum est."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "8446101a",
+      "timestamp": 1650935255137,
+      "subject": "Re: In sint",
+      "body": "Omnis vitae maiores tempora id enim nulla."
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "a91b76a1",
+      "timestamp": 1650936628278,
+      "user": "Diamond_Bahringer"
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "a91b76a1",
+      "timestamp": 1650936909152,
+      "user": "Coy_Nitzsche82"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "8446101a",
+      "timestamp": 1650937944812,
+      "subject": "Re: In sint",
+      "body": "Veritatis quo quaerat id non minus quod dignissimos."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "20b614b6",
+      "timestamp": 1650938248237,
+      "subject": "Re: Est natus",
+      "body": "Magnam voluptates quis molestiae aut maxime voluptas."
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "a91b76a1",
+      "timestamp": 1650939170288,
+      "user": "Russ_Barton"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "20b614b6",
+      "timestamp": 1650939297167,
+      "subject": "Re: Est natus",
+      "body": "Officia at nulla ex rem in."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "8446101a",
+      "timestamp": 1650940359255,
+      "subject": "Re: In sint",
+      "body": "Sed mollitia dolorem voluptatem maxime dolores."
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "a91b76a1",
+      "timestamp": 1650940990434,
+      "user": "Lolita.Wolff"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "20b614b6",
+      "timestamp": 1650941375831,
+      "subject": "Re: Est natus",
+      "body": "Aut ea illo."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "20b614b6",
+      "timestamp": 1650939839615,
+      "subject": "Sapiente laudantium",
+      "body": "Placeat est aut qui labore id ipsum voluptas aspernatur."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "20b614b6",
+      "timestamp": 1650937175020,
+      "subject": "Ut accusantium",
+      "body": "Quam nisi aut est sapiente."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "8446101a",
+      "timestamp": 1650941441369,
+      "subject": "Re: In sint",
+      "body": "Aut rerum id molestias ipsa explicabo."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "20b614b6",
+      "timestamp": 1650941970816,
+      "subject": "Re: Est natus",
+      "body": "Dolore fugit molestias."
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "a91b76a1",
+      "timestamp": 1650942685448,
+      "user": "Melvina92"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "3aecc4f2",
+      "timestamp": 1650942756543,
+      "subject": "Voluptas nemo",
+      "body": "Molestiae laboriosam dolores ut eaque aspernatur saepe illo quis quo."
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "a91b76a1",
+      "timestamp": 1650944587412,
+      "user": "Frances.Reinger39"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "20b614b6",
+      "timestamp": 1650944989735,
+      "subject": "Re: Est natus",
+      "body": "Cupiditate quos non qui harum delectus rem ut est."
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "3aecc4f2",
+      "timestamp": 1650945020095,
+      "user": "Frances.Reinger39"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "20b614b6",
+      "timestamp": 1650945322368,
+      "subject": "Re: Est natus",
+      "body": "Iste recusandae est tempora nostrum error eligendi eos."
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "3aecc4f2",
+      "timestamp": 1650946550436,
+      "user": "Frances.Reinger39"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "84c40ff7",
+      "timestamp": 1650946931527,
+      "subject": "Ipsa odit",
+      "body": "Et quia quia nihil laboriosam recusandae in."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "20b614b6",
+      "timestamp": 1650941931496,
+      "subject": "Est maxime",
+      "body": "Repellat eos nam maiores quas ut rerum voluptatem dolor."
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "20b614b6",
+      "timestamp": 1650947061119,
+      "subject": "Re: Est natus",
+      "body": "Omnis expedita ullam autem sit voluptatem pariatur aliquid ut et."
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "a91b76a1",
+      "timestamp": 1650947291957,
+      "user": "Elmira77"
+    }
+  },
+  {
+    "type": "messageReceived",
+    "data": {
+      "conversationId": "20b614b6",
+      "timestamp": 1650947361890,
+      "subject": "Re: Est natus",
+      "body": "Doloremque earum sunt eos totam."
+    }
+  },
+  {
+    "type": "assigned",
+    "data": {
+      "conversationId": "84c40ff7",
+      "timestamp": 1650949750098,
+      "user": "Melvina92"
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "a91b76a1",
+      "timestamp": 1650950025731,
+      "user": "Melvina92"
+    }
+  },
+  {
+    "type": "assigned",
+    "data": {
+      "conversationId": "84c40ff7",
+      "timestamp": 1650949750098,
+      "user": "Melvina92"
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "a91b76a1",
+      "timestamp": 1650953558831,
+      "user": "Frances.Reinger39"
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "a91b76a1",
+      "timestamp": 1650955331557,
+      "user": "Russ_Barton"
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "a91b76a1",
+      "timestamp": 1650956522525,
+      "user": "Frances.Reinger39"
+    }
+  },
+  {
+    "type": "typingStarted",
+    "data": {
+      "conversationId": "a91b76a1",
+      "timestamp": 1650956916721,
+      "user": "Diamond_Bahringer"
+    }
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "name": "front-fe-exercise",
+  "version": "2.2.0",
+  "description": "Technical exercise for front-end engineer",
+  "private": true,
+  "scripts": {
+    "build": "tsc && vite build",
+    "start": "vite dev",
+    "test": "vitest"
+  },
+  "author": "Mangesh",
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^6.0.11"
+  },
+  "devDependencies": {
+    "vitest": "^3.0.3",
+    "typescript": "^4.0.0"
+  },
+  "keywords": [
+    "typescript",
+    "conversations",
+    "store"
+  ],
+  "optionalDependencies": {
+    "@rollup/rollup-linux-x64-gnu": "4.9.5"
+  }
+}
